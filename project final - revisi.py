@@ -30,6 +30,7 @@ new_photo = ImageTk.PhotoImage(resize)
 # test123
 # Window Utama
 #test perubahan
+#test 2
 
 class App():
     def __init__(self, master):
