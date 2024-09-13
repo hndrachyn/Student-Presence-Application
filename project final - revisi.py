@@ -29,7 +29,7 @@ new_photo = ImageTk.PhotoImage(resize)
 # samsung
 # test123
 # Window Utama
-
+#test perubahan
 
 class App():
     def __init__(self, master):
